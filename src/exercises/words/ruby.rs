@@ -1,0 +1,33 @@
+pub fn get_ruby_words() -> Vec<String> {
+    vec![
+        "def",
+        "end",
+        "class",
+        "module",
+        "if",
+        "unless",
+        "elsif",
+        "else",
+        "case",
+        "when",
+        "while",
+        "until",
+        "for",
+        "each",
+        "do",
+        "begin",
+        "rescue",
+        "ensure",
+        "raise",
+        "return",
+        "yield",
+        "self",
+        "super",
+        "attr_accessor",
+        "attr_reader",
+        "puts",
+    ]
+    .iter()
+    .map(|s| s.to_string())
+    .collect()
+}

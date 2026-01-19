@@ -1,0 +1,35 @@
+pub fn get_typescript_words() -> Vec<String> {
+    vec![
+        "function",
+        "const",
+        "let",
+        "var",
+        "class",
+        "interface",
+        "type",
+        "enum",
+        "namespace",
+        "import",
+        "export",
+        "default",
+        "extends",
+        "implements",
+        "public",
+        "private",
+        "protected",
+        "async",
+        "await",
+        "return",
+        "if",
+        "else",
+        "switch",
+        "case",
+        "for",
+        "while",
+        "try",
+        "catch",
+    ]
+    .iter()
+    .map(|s| s.to_string())
+    .collect()
+}
