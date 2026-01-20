@@ -14,7 +14,7 @@ A typing practice application designed for programmers using Dvorak and QWERTY l
 
 ---
 
-[LazyDvorak](https://utfs.io/f/DBjkFwb5pfbRtJVPsjyyr8n5dGbEgTcieAKoYQzaRIDHmx0J)
+![LazyDvorak](https://utfs.io/f/DBjkFwb5pfbRtJVPsjyyr8n5dGbEgTcieAKoYQzaRIDHmx0J)
 
 ## ⚠️ Disclaimer
 
@@ -39,11 +39,11 @@ The project is in an early stage, so there may be some bugs and errors. I apolog
 
 ## 📋 TODO
 
-[ ] Analyze whether the WPM calculation is correct
+- [ ] Analyze whether the WPM calculation is correct
 
-[ ] Shift and Caps only work when used in combination; they should be displayed when switching layouts
+- [ ] Shift and Caps only work when used in combination; they should be displayed when switching layouts
 
-[ ] Increase test coverage for the Real Code Test
+- [ ] Increase test coverage for the Real Code Test
 
 ## 📦 Installation
 
